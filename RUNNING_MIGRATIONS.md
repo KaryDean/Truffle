@@ -28,3 +28,5 @@ module.exports = function(deployer) {
 为了记录迁移是否成功，需要使用编号的前缀。后缀纯粹是为了人类的可读性和理解力。
 
 第一行代码`artifacts.require("MyContract");`表示我们想要与那些代码交互
+还是选择之前的平台吧，这是实在不方便
+[感想](http://bbfdb076.wiz03.com/share/s/2X_r1S09nA3z2p2way2DKAAg3LQ9oh1-3QIP2ONRSp3h-u-1)
