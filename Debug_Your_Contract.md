@@ -6,4 +6,6 @@
 2. 交易的哈希值
 3. 源代码还有交易遇到的工件。原文是：
 > artifacts the transaction encounters.
-# 感觉直接使用在线编辑工具也可以达到这种效果[连接地址]([Remix - Solidity IDE](https://remix.ethereum.org/#optimize=true&version=soljson-v0.4.16+commit.d7661dd9.js))
+# 感觉直接使用在线编辑工具也可以达到这种效果
+
+[链接地址]([Remix - Solidity IDE](https://remix.ethereum.org/#optimize=true&version=soljson-v0.4.16+commit.d7661dd9.js))
