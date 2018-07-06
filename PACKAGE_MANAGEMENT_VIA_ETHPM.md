@@ -1,5 +1,6 @@
 # PACKAGE MANAGEMENT VIA ETHPM
 - 发现使用Bear，编辑markdown格外简单，还免费，不是广告
+
 [原文地址](https://truffleframework.com/docs/getting_started/packages-ethpm#package-configuration)
 > EthPM is the new Package Registry for Ethereum. It follows the ERC190 spec for publishing and consuming smart contract packages, and has gained wide support from many diverse Ethereum development tools.
 
