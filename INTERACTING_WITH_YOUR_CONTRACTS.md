@@ -1,8 +1,3 @@
-# 
-[image:1F026861-7B8A-4E07-ACCE-BDA3CA569BB1-10559-00004584B153A102/08344240-4406-4C10-B1A9-7319794EC7FD.png]
-大发链接
-大师傅l
-
-
-# 123
-## 321
+# 与合约交互
+[原文地址](https://truffleframework.com/docs/getting_started/contracts)
+[我的笔记](http://bbfdb076.wiz03.com/share/s/2X_r1S09nA3z2p2way2DKAAg17pdIn3Xm4Yj2ERmdh2V4pCx)
