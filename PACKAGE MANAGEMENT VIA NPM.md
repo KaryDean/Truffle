@@ -1,4 +1,5 @@
 # NPM的包管理
+[原文地址](https://truffleframework.com/docs/getting_started/packages-npm)
 Truffle 符合NPM标准。你的项目中有一个*node_modules*文件夹。这意味着你可以使用和分发合约，dapps还有以太坊支持的库通过NPM，让你自己的代码可以位别人所用，也可以用别人的代码。
 
 ## 包布局
